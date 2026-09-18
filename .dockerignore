@@ -1,0 +1,4 @@
+*
+!requirements.txt
+!gridwise/
+!gridwise/*.py
